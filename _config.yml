@@ -1,0 +1,8 @@
+title: Shibenli.GitHub.io
+description: 个人blog
+google_analytics: UA-74039256-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

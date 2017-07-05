@@ -1,7 +1,0 @@
-{
-  "name": "Shibenli.GitHub.io",
-  "tagline": "个人blog",
-  "body": "# 个人blog\r\n一个喜欢折腾的人，有事没事喜欢折腾些新东西\r\n\r\n\r\n## 1.  randomkeyboard\r\n\r\n[![Release](https://jitpack.io/v/shibenli/randomkeyboard.svg)](https://jitpack.io/#shibenli/randomkeyboard)\r\n\r\n基于PopWindow封装的自定义键盘，支持随机键值\r\n",
-  "google": "UA-74039256-1",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
