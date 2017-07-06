@@ -76,4 +76,6 @@ algolia:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+    type: git
+    repository: https://github.com/shibenli/shibenli.github.io.git
+    branch: master
