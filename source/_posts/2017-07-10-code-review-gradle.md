@@ -11,6 +11,8 @@ tags:
 
 通过添加新的buildType->dev，让dev除服务器地址以外的配置都和release一致，保证在发布提交测试的时候代码和release同步。并且在dev的时候使用```.dev```作为versionNameSuffix，增加svn的提交版本号来作为App名称的后缀。为测试人员反馈bug、开发人员定位bug提供版本依据，更是对于自动打包和自动分发测试提供方便。其他的比如加入打包时间、服务器地址配置等
 
+<!-- more -->
+
 ## 附录
 
 ### 完整gradle代码
