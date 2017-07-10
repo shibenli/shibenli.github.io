@@ -11,6 +11,9 @@ tags:
 
 ## Debug配置
 ![Debug相关配置](/images/2017/Debug相关配置.png)
+
+<!-- more --> 
+
 ![Debug相关配置](/images/2017/Debug相关配置2.png)
 
 这里通过在buildType为debug的情况下这是相应的DebugApp，初始化只有在开发debug的时候才进行的操作，比方说使用square的内存泄露检测工具[LeakCanary](https://github.com/square/leakcanary)。[Stetho](https://github.com/facebook/stetho)是facebook的一个能够在在Chrome上调试Android网络、数据库和webview的强大工具，他甚至能够直接读取webview的cookie、session等字段，还能查看js报错。他们都值得你拥有...

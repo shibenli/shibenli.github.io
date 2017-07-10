@@ -15,6 +15,8 @@ tags:
 
 借助于[butterknife](https://github.com/JakeWharton/butterknife "butterknife")的控件、事件的注入功能，封装了获取layout的方法和一些初始化的新的生命周期方法。
 
+<!-- more --> 
+
 ### 功能的基类
 ![基于功能的基类分布](/images/2017/基类封装-删除、记录、问题反馈.png)
 
