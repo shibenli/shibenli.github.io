@@ -19,13 +19,13 @@ GitHub 项目的 README.md 中可以添加徽章（Badge）对项目进行标记
 
 徽标主要由图片和对应的链接（当然，你可以不填）组成，徽标图片的话一般由左半部分的名称和右半部分的值组成。
 
-![一枚普通的徽标](http://upload-images.jianshu.io/upload_images/1018190-3489b47031ed2017.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![一枚普通的徽标](/images/2017/1018190-3489b47031ed2017.png)
 
 <!-- more -->
 
 GitHub 徽标的官方网站是 [http://shields.io/](http://shields.io/)，我萌可以在官网预览绝大部分的徽标样式，然后选择自己喜欢的（当然首先需要适用于自己的目标项目）徽标，添加到自己的项目文档中去。
 
-![Shields.IO](http://upload-images.jianshu.io/upload_images/1018190-b2676f0571e5684c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Shields.IO](http://shields.io/logo.svg)
 
 下面贴出几个栗子以供参考：
 
