@@ -54,7 +54,7 @@ GitHub 徽标的官方网站是 [http://shields.io/](http://shields.io/)，我�
 
 - 家喻户晓的 Alamofire
 
-![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/Alamofire/Alamofire/assets/alamofire.png)
+![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/Alamofire/Alamofire/master/alamofire.png)
 
 [![Build Status](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Alamofire.svg)](https://img.shields.io/cocoapods/v/Alamofire.svg)
@@ -86,7 +86,7 @@ GitHub 徽标的官方网站是 [http://shields.io/](http://shields.io/)，我�
 
 当然如果个人比较喜欢的话，请随意添加。
 
-![请随意](http://upload-images.jianshu.io/upload_images/1018190-bd12202658a6a391.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![请随意](/images/2017/1018190-bd12202658a6a391.png)
 
 # 二. 常用徽标添加
 
