@@ -5,6 +5,8 @@ type: "about"
 comments: false
 ---
 
+<img src="/images/avatar-logo.png" width="240" height="240">
+
 一个喜欢折腾的人，有事没事喜欢折腾些新东西
 
 ## 推广
