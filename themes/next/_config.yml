@@ -48,6 +48,7 @@ menu:
   categories: /categories/
   archives: /archives/
   tags: /tags/
+  ad: /ad/
   about: /about/
   #sitemap: /sitemap.xml
   commonweal: /404.html
@@ -66,6 +67,7 @@ menu_icons:
   categories: th
   schedule: calendar
   tags: tags
+  ad: bell
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
