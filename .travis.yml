@@ -27,11 +27,11 @@ before_deploy:
 deploy:   # 部署
   - provider: pages
     local_dir: ./public
-    skip_cleanup: true
+    skip_cleanup: true 
     github_token: $GH_TOKEN # Set in travis-ci.org dashboard
+    target_branch: master # 
     on:
-      branch: master
-
+      branch: source
   - provider: releases # 部署到GitHub Release，除此之外，Travis CI还支持发布到fir.im、AWS、Google App Engine等
     api_key:           # 填写GitHub的token （Settings -> Personal access tokens -> Generate new token）
       secure: $GH_TOKEN
