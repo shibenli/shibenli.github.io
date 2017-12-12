@@ -17,11 +17,11 @@ install:
 
 script:
   - hexo g
-
-before_deploy:
-  - git tag ${GH_TAG}
-  - tar -zcf ${TRAVIS_BUILD_DIR}-${TRAVIS_TAG}-$(GH_TAG)-${TRAVIS_BUILD_NUMBER}.tar.gz ./public
   
+after_success:
+  - git tag ${GH_TAG}
+  - tar -zcf ${TRAVIS_BUILD_DIR}-${TRAVIS_TAG}-$(GH_TAG)-${TRAVIS_BUILD_NUMBER}.tar.gz ./public 
+
 deploy:   # 部署
   - provider: pages
     local_dir: ./public
