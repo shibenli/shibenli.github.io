@@ -4,6 +4,9 @@ node_js:
   - "8"
 before_install:
   - export TZ='Asia/Shanghai'  # 设置时区
+  - export GH_TAG= $(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)
+  - git config --local user.name "beilly"
+  - git config --local user.email "daben107@gmail.com"
 
 # S: Build Lifecycle
 install:
@@ -16,8 +19,6 @@ script:
   - hexo g
 
 before_deploy:
-  - git config --local user.name "beilly"
-  - git config --local user.email "daben107@gmail.com"
   - git tag $(GH_TAG)
   
   - cd ./public
@@ -34,8 +35,6 @@ deploy:              # 部署
 after_script:
   - cd ./public
   - git init
-  - git config user.name "beilly"
-  - git config user.email "daben107@gmail.com"
   - git add .
   - git commit -m "Update docs"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
@@ -53,5 +52,4 @@ cache:
 env:
  global:
    - GH_REF: github.com/beilly/beilly.github.io.git
-   - GH_TAG: $(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)
    
