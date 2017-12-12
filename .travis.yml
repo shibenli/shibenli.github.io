@@ -45,6 +45,7 @@ deploy:   # 部署
 
 branches:
   only:
+    - master
     - source
 
 cache:
