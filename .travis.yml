@@ -20,9 +20,7 @@ script:
 
 before_deploy:
   - git tag ${GH_TAG}
-  
-  - cd ./public
-  - tar -zcf ${TRAVIS_BUILD_DIR}-${TRAVIS_TAG}-$(GH_TAG)-${TRAVIS_BUILD_NUMBER}.tar.gz ./*
+  - tar -zcf ${TRAVIS_BUILD_DIR}-${TRAVIS_TAG}-$(GH_TAG)-${TRAVIS_BUILD_NUMBER}.tar.gz ./public
   
 deploy:   # 部署
   - provider: pages
