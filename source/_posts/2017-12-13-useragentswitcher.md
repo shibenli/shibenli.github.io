@@ -7,7 +7,7 @@ tags:
     - UserAgentSwitcher
 ---
 
-![useragentswitcher](/images/header_p.png)
+![useragentswitcher](/images/2017/header_p.png)
 
 UserAgent（以下简称UA）通常被用作区分客户端来源或版本、系统版本等一系列信息，常见的浏览某些微信的页面提示“只能在微信中打卡”或者“请使用微信版本高于xxx打开”，这里都是UA匹配的功劳。最常见的就是根据UA确定是手机版还是PC的，然后跳转到对于的网页（或提示某一个不可用）。
 
