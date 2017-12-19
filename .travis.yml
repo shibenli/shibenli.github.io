@@ -4,7 +4,7 @@ node_js:
   - "8"
 before_install:
   - export TZ='Asia/Shanghai'  # 设置时区
-  - export GH_TAG="$(date +'%Y-%m-%d %H:%M:%S')-$(git log --format=%h -1)"
+  - export GH_TAG="$(date +$GH_DAT)-$(git log --format=%h -1)"
   - git config --local user.name "beilly"
   - git config --local user.email "daben107@gmail.com"
 
@@ -54,4 +54,5 @@ cache:
 env:
  global:
    - GH_REF: github.com/beilly/beilly.github.io.git
+   - GH_DATE: %Y-%m-%d %H:%M:%S
    
