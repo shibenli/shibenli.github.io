@@ -23,15 +23,15 @@ GitHub 项目的 README.md 中可以添加徽章（Badge）对项目进行标记
 
 <!-- more -->
 
-GitHub 徽标的官方网站是 [http://shields.io/](http://shields.io/)，我萌可以在官网预览绝大部分的徽标样式，然后选择自己喜欢的（当然首先需要适用于自己的目标项目）徽标，添加到自己的项目文档中去。
+GitHub 徽标的官方网站是 [https://shields.io/](https://shields.io/)，我萌可以在官网预览绝大部分的徽标样式，然后选择自己喜欢的（当然首先需要适用于自己的目标项目）徽标，添加到自己的项目文档中去。
 
-![Shields.IO](http://shields.io/logo.svg)
+![Shields.IO](https://shields.io/logo.svg)
 
 下面贴出几个栗子以供参考：
 
 - 正在学习的 ReSwift
 
-[![Build Status](https://img.shields.io/travis/ReSwift/ReSwift/master.svg?style=flat-square)](https://travis-ci.org/ReSwift/ReSwift) [![Code coverage status](https://img.shields.io/codecov/c/github/ReSwift/ReSwift.svg?style=flat-square)](http://codecov.io/github/ReSwift/ReSwift) [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/ReSwift.svg?style=flat-square)](https://cocoapods.org/pods/ReSwift) [![Platform support](https://img.shields.io/badge/platform-ios%20%7C%20osx%20%7C%20tvos%20%7C%20watchos-lightgrey.svg?style=flat-square)](https://github.com/ReSwift/ReSwift/blob/master/LICENSE.md) [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ReSwift/ReSwift/blob/master/LICENSE.md)
+[![Build Status](https://img.shields.io/travis/ReSwift/ReSwift/master.svg?style=flat-square)](https://travis-ci.org/ReSwift/ReSwift) [![Code coverage status](https://img.shields.io/codecov/c/github/ReSwift/ReSwift.svg?style=flat-square)](https://codecov.io/github/ReSwift/ReSwift) [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/ReSwift.svg?style=flat-square)](https://cocoapods.org/pods/ReSwift) [![Platform support](https://img.shields.io/badge/platform-ios%20%7C%20osx%20%7C%20tvos%20%7C%20watchos-lightgrey.svg?style=flat-square)](https://github.com/ReSwift/ReSwift/blob/master/LICENSE.md) [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ReSwift/ReSwift/blob/master/LICENSE.md)
 
 - 大名鼎鼎的 Kingfisher
 
@@ -45,9 +45,9 @@ GitHub 徽标的官方网站是 [http://shields.io/](http://shields.io/)，我�
 <a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>
 <a href="https://github.com/Carthage/Carthage/"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
-<a href="http://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/v/Kingfisher.svg?style=flat"></a>
+<a href="https://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/v/Kingfisher.svg?style=flat"></a>
 <a href="https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Kingfisher.svg?style=flat"></a>
-<a href="http://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/p/Kingfisher.svg?style=flat"></a>
+<a href="https://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/p/Kingfisher.svg?style=flat"></a>
 <a href="https://codebeat.co/projects/github-com-onevcat-kingfisher"><img alt="codebeat badge" src="https://codebeat.co/assets/svg/badges/A-398b39-669406e9e1b136187b91af587d4092b0160370f271f66a651f444b990c2730e9.svg" /></a>
 <img src="https://img.shields.io/badge/made%20with-%3C3-orange.svg">
 </p>
@@ -59,8 +59,8 @@ GitHub 徽标的官方网站是 [http://shields.io/](http://shields.io/)，我�
 [![Build Status](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Alamofire.svg)](https://img.shields.io/cocoapods/v/Alamofire.svg)
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![Platform](https://img.shields.io/cocoapods/p/Alamofire.svg?style=flat)](http://cocoadocs.org/docsets/Alamofire)
-[![Twitter](https://img.shields.io/badge/twitter-@AlamofireSF-blue.svg?style=flat)](http://twitter.com/AlamofireSF)
+[![Platform](https://img.shields.io/cocoapods/p/Alamofire.svg?style=flat)](https://cocoadocs.org/docsets/Alamofire)
+[![Twitter](https://img.shields.io/badge/twitter-@AlamofireSF-blue.svg?style=flat)](https://twitter.com/AlamofireSF)
 [![Gitter](https://badges.gitter.im/Alamofire/Alamofire.svg)](https://gitter.im/Alamofire/Alamofire?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 徽标并不是添加的越多越好，合理地选择适合项目的徽标做具有针对性地添加才是理性的做法，像 [EFQRCode](https://github.com/EyreFree/EFQRCode) 这样堆积徽标的无脑行为并不是十分可取，在这里提出这一点，希望大家不要盲目追求数量。
@@ -70,18 +70,18 @@ GitHub 徽标的官方网站是 [http://shields.io/](http://shields.io/)，我�
 ![](https://raw.githubusercontent.com/EyreFree/EFQRCode/assets/EFQRCode.jpg)
 
 <p align="center">
-<a href="https://travis-ci.org/EyreFree/EFQRCode"><img src="http://img.shields.io/travis/EyreFree/EFQRCode.svg"></a>
+<a href="https://travis-ci.org/EyreFree/EFQRCode"><img src="https://img.shields.io/travis/EyreFree/EFQRCode.svg"></a>
 <a href="https://codecov.io/gh/EyreFree/EFQRCode"><img src="https://codecov.io/gh/EyreFree/EFQRCode/branch/master/graph/badge.svg"></a>
 <a href="https://github.com/Carthage/Carthage/"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
-<a href="http://cocoapods.org/pods/EFQRCode"><img src="https://img.shields.io/cocoapods/v/EFQRCode.svg?style=flat"></a>
-<a href="http://cocoapods.org/pods/EFQRCode"><img src="https://img.shields.io/cocoapods/p/EFQRCode.svg?style=flat"></a>
+<a href="https://cocoapods.org/pods/EFQRCode"><img src="https://img.shields.io/cocoapods/v/EFQRCode.svg?style=flat"></a>
+<a href="https://cocoapods.org/pods/EFQRCode"><img src="https://img.shields.io/cocoapods/p/EFQRCode.svg?style=flat"></a>
 <a href="https://github.com/apple/swift"><img src="https://img.shields.io/badge/language-swift-orange.svg"></a>
 <a href="https://codebeat.co/projects/github-com-eyrefree-efqrcode-master"><img src="https://codebeat.co/badges/01f53e9d-542c-4c22-adc7-d1dbff0d2a6f"></a>
 <a href="https://raw.githubusercontent.com/EyreFree/EFQRCode/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/EFQRCode.svg?style=flat"></a>
 <a href="https://gitter.im/EFQRCode/Lobby"><img src="https://badges.gitter.im/EyreFree/EFQRCode.svg"></a>
 <a href="https://twitter.com/EyreFree777"><img src="https://img.shields.io/badge/twitter-@EyreFree777-blue.svg?style=flat"></a>
-<a href="http://weibo.com/eyrefree777"><img src="https://img.shields.io/badge/weibo-@EyreFree-red.svg?style=flat"></a>
+<a href="https://weibo.com/eyrefree777"><img src="https://img.shields.io/badge/weibo-@EyreFree-red.svg?style=flat"></a>
 </p>
 
 当然如果个人比较喜欢的话，请随意添加。
@@ -97,16 +97,16 @@ GitHub 徽标的官方网站是 [http://shields.io/](http://shields.io/)，我�
 持续集成的话推荐 [Travis CI](https://travis-ci.org/)，针对开源项目免费，所以你的私有项目无法享受到免费的持续构建服务，不过我们的目的貌似就是给开源项目添加徽标。
 
 同类型的产品还有 [CircleCI](https://circleci.com)，不过目前跑 OS X 项目需要额外付费，免费版提供一个 Linux 项目队列，作为非付费用户在这里不多做评价，大佬们可以自己试下。其他还有诸如 [Jenkins](https://jenkins.io/)
- 和 [Codeship](https://codeship.com/) 等，大家可以在 [http://shields.io/](http://shields.io/) 的 `Build` 这一栏自行翻阅。
+ 和 [Codeship](https://codeship.com/) 等，大家可以在 [https://shields.io/](https://shields.io/) 的 `Build` 这一栏自行翻阅。
 
 接下来就是 Travis CI 的集成工作了，首先打开 [https://travis-ci.org/](https://travis-ci.org/) 注册一个 Travis-CI 账号，可以通过 GitHub 账户直接登陆。
 
-然后参考 [官方文档](https://docs.travis-ci.com/user/getting-started/)，根据你的项目语言或类型选择具体的配置方式，主要就是在项目中添加一个 `.travis.yml` 配置文件，告诉 Travis CI 怎样对你的项目进行编译或测试。这里有一个 Swift CocoaPods 库的集成示例，可以参考一下：[http://www.jianshu.com/p/beaa9ec9183d](http://www.jianshu.com/p/beaa9ec9183d)。
+然后参考 [官方文档](https://docs.travis-ci.com/user/getting-started/)，根据你的项目语言或类型选择具体的配置方式，主要就是在项目中添加一个 `.travis.yml` 配置文件，告诉 Travis CI 怎样对你的项目进行编译或测试。这里有一个 Swift CocoaPods 库的集成示例，可以参考一下：[https://www.jianshu.com/p/beaa9ec9183d](https://www.jianshu.com/p/beaa9ec9183d)。
 
 然后徽标图片地址是这个样子的：
 
 ```
-http://img.shields.io/travis/{GitHub 用户名}/{项目名称}.svg
+https://img.shields.io/travis/{GitHub 用户名}/{项目名称}.svg
 ```
 
 将上面 URL 中的 {GitHub 用户名} 和 {项目名称} 替换为你的即可，再加上该项目在 Travis CI 上的地址，以 Alamofire 为例，最后集成完成的 Markdown 代码和效果大概是这个样子：
@@ -142,7 +142,7 @@ http://img.shields.io/travis/{GitHub 用户名}/{项目名称}.svg
 ![](https://img.shields.io/cocoapods/dm/AFNetworking.svg)
 ![](https://img.shields.io/cocoapods/dw/AFNetworking.svg)
 
-如果你的库已经发布到 CocoaPods 的话，我们只要把上面的 AFNetworking 改为自己的项目名称即可。更多其他发布方式如 apm、npm、Gem 等可查阅 [http://shields.io/](http://shields.io/) 的 `Downloads` 一栏。
+如果你的库已经发布到 CocoaPods 的话，我们只要把上面的 AFNetworking 改为自己的项目名称即可。更多其他发布方式如 apm、npm、Gem 等可查阅 [https://shields.io/](https://shields.io/) 的 `Downloads` 一栏。
 
 ## 3. 项目版本信息
 
@@ -160,7 +160,7 @@ https://img.shields.io/cocoapods/v/{项目名称}.svg?style=flat
 
 ![](https://img.shields.io/cocoapods/v/Alamofire.svg?style=flat)
 
-如果你的库已经发布到 CocoaPods 的话，我们只要把上面的 Alamofire 改为自己的项目名称即可。更多其他发布方式如 apm、npm、Gem 等可查阅 [http://shields.io/](http://shields.io/) 的 `Version` 一栏。
+如果你的库已经发布到 CocoaPods 的话，我们只要把上面的 Alamofire 改为自己的项目名称即可。更多其他发布方式如 apm、npm、Gem 等可查阅 [https://shields.io/](https://shields.io/) 的 `Version` 一栏。
 
 如果你的发布工具不提供项目版本信息的徽标的话，可以用自定义徽标的方式实现，具体可参考下文自定义徽标一节，这里给出徽标代码：
 
@@ -182,13 +182,13 @@ https://img.shields.io/badge/{发布方式}-{版本号}-519dd9.svg
 
 同样的，Codecov 可以直接使用 GitHub 账号登陆，需要结合 Travis CI 使用，在 `.travis.yml` 文件中添加一个回调触发 Codecov 的刷新，同时需要打开工程中的测试覆盖信息收集，XCode 中的设置如下
 
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/1018190-a1fceb0028ce645a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Paste_Image.png](https://upload-images.jianshu.io/upload_images/1018190-a1fceb0028ce645a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 更多信息可参考 [官方文档](https://docs.codecov.io/docs) 和 [示例](https://github.com/codecov)。
 
 然后，我们就可以在 Setting 中的 Badge 一栏找到添加图标的代码啦：
 
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/1018190-95306d0d263235c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Paste_Image.png](https://upload-images.jianshu.io/upload_images/1018190-95306d0d263235c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 最终效果如下：
 
@@ -242,7 +242,7 @@ https://img.shields.io/badge/language-{项目语言}-{背景色}.svg
 
 完美!
 
-![Swift](http://upload-images.jianshu.io/upload_images/1018190-7aaab9c7de41a78c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Swift](https://upload-images.jianshu.io/upload_images/1018190-7aaab9c7de41a78c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 7. 代码分析
 
@@ -250,11 +250,11 @@ https://img.shields.io/badge/language-{项目语言}-{背景色}.svg
 
 嗯，上面是官方自述，大概意思就是每次 push 或者 merge 之后会对代码进行分，给出评分，然后告诉你哪些地方复杂度过高需要进行重构之类的。用 GitHub 登陆后绑定项目即可，无需对原有项目进行修改（其实是 codebeat 在你的项目设置里加了一个 Webhook，通知它重新计算评分）。
 
-![Webhooks](http://upload-images.jianshu.io/upload_images/1018190-271c429613a8d34e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Webhooks](https://upload-images.jianshu.io/upload_images/1018190-271c429613a8d34e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 照着引导巴拉巴拉一顿操作之后就可以获取图标啦，在项目的 Setting 中可以获取徽标代码，自己复制出来就可以。
 
-![Setting](http://upload-images.jianshu.io/upload_images/1018190-080b0705f241d072.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Setting](https://upload-images.jianshu.io/upload_images/1018190-080b0705f241d072.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 最终效果如下：
 
@@ -320,13 +320,13 @@ https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
 https://img.shields.io/badge/weibo-@EyreFree-red.svg
 ```
 
-再结合我的微博地址 [http://weibo.com/eyrefree777](http://weibo.com/eyrefree777) 后完整徽标代码和效果如下（如果这段代码用在 GitHub 的话，点击该徽标会打开对应的 URL 地址，即直接跳到我的微博）：
+再结合我的微博地址 [https://weibo.com/eyrefree777](https://weibo.com/eyrefree777) 后完整徽标代码和效果如下（如果这段代码用在 GitHub 的话，点击该徽标会打开对应的 URL 地址，即直接跳到我的微博）：
 
 ```markdown
-[![](https://img.shields.io/badge/weibo-@EyreFree-red.svg)](http://weibo.com/eyrefree777)
+[![](https://img.shields.io/badge/weibo-@EyreFree-red.svg)](https://weibo.com/eyrefree777)
 ```
 
-[![](https://img.shields.io/badge/weibo-@EyreFree-red.svg)](http://weibo.com/eyrefree777)
+[![](https://img.shields.io/badge/weibo-@EyreFree-red.svg)](https://weibo.com/eyrefree777)
 
 同理我的推特徽标代码和效果如下：
 
@@ -401,7 +401,7 @@ style 控制徽标的主体样式，有四种，不设置的话默认是 `flat` 
 
 ### 3. logo
 
-该参数可以用来为徽标添加 logo，logo 图片会出现在左半部分的徽标标题左边，logo 图片高度必须 ≥ 14px，logo 图片需要先转为 base64 编码然后直接插入到 URL 中（可以用 [http://b64.io/](http://b64.io/) 将图片转为 base64 编码的字符串），格式如下。
+该参数可以用来为徽标添加 logo，logo 图片会出现在左半部分的徽标标题左边，logo 图片高度必须 ≥ 14px，logo 图片需要先转为 base64 编码然后直接插入到 URL 中（可以用 [https://b64.io/](https://b64.io/) 将图片转为 base64 编码的字符串），格式如下。
 
 ```
 ?logo={base64 编码后的图片数据}
@@ -488,9 +488,9 @@ style 控制徽标的主体样式，有四种，不设置的话默认是 `flat` 
 <a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>
 <a href="https://github.com/Carthage/Carthage/"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
-<a href="http://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/v/Kingfisher.svg?style=flat"></a>
+<a href="https://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/v/Kingfisher.svg?style=flat"></a>
 <a href="https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Kingfisher.svg?style=flat"></a>
-<a href="http://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/p/Kingfisher.svg?style=flat"></a>
+<a href="https://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/p/Kingfisher.svg?style=flat"></a>
 <a href="https://codebeat.co/projects/github-com-onevcat-kingfisher"><img alt="codebeat badge" src="https://codebeat.co/assets/svg/badges/A-398b39-669406e9e1b136187b91af587d4092b0160370f271f66a651f444b990c2730e9.svg" /></a>
 </p>
 ```
@@ -499,9 +499,9 @@ style 控制徽标的主体样式，有四种，不设置的话默认是 `flat` 
 <a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>
 <a href="https://github.com/Carthage/Carthage/"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-ready-orange.svg"></a>
-<a href="http://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/v/Kingfisher.svg?style=flat"></a>
+<a href="https://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/v/Kingfisher.svg?style=flat"></a>
 <a href="https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Kingfisher.svg?style=flat"></a>
-<a href="http://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/p/Kingfisher.svg?style=flat"></a>
+<a href="https://onevcat.github.io/Kingfisher/"><img src="https://img.shields.io/cocoapods/p/Kingfisher.svg?style=flat"></a>
 <a href="https://codebeat.co/projects/github-com-onevcat-kingfisher"><img alt="codebeat badge" src="https://codebeat.co/assets/svg/badges/A-398b39-669406e9e1b136187b91af587d4092b0160370f271f66a651f444b990c2730e9.svg" /></a>
 </p>
 

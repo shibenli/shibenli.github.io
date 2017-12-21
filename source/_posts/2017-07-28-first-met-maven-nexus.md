@@ -75,5 +75,5 @@ compile'common:toastutils-lib:1.0.0'
 
 
 ## 参考
--   [木小五童鞋](http://www.jianshu.com/p/0d89418ee298)
+-   [木小五童鞋](https://www.jianshu.com/p/0d89418ee298)
 -   此文由木小五童鞋整理，我指导并做后期修改，最终发布在简书上。现再次发布优化版本
