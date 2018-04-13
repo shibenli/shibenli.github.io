@@ -34,12 +34,12 @@ tags:
 
 这个就涉及到SonarQube Scanner插件了，这个连接SonarQube服务器做代码扫描的Jenkins插件。主要配置如下：
 
-- sonar.projectKey 区分不同的项目
-- sonar.projectName 显示名称
-- sonar.projectVersion 版本
-- sonar.language 编程语言，Sonar 是支持很多语言的，不过Object-C 好像是收费插件。当一个项目中包含多语言的时候用逗号分隔（例如： sonar.language=java,grvy）
-- sonar.java.binaries 暂时也没搞懂，不过新版本的SonarQube 如果不配置会报错的
-- sonar.sources 代码路径
+- sonar.projectKey 区分不同的项目；
+- sonar.projectName 显示名称；
+- sonar.projectVersion 版本；
+- sonar.language 编程语言，Sonar 是支持很多语言的，不过Object-C 好像是收费插件。当一个项目中包含多语言的时候用逗号分隔（例如： sonar.language=java,grvy）；
+- sonar.java.binaries 暂时也没搞懂，不过新版本的SonarQube 如果不配置会报错的；
+- sonar.sources 代码路径；
 
 ### 4、参数化构建
 
@@ -59,6 +59,6 @@ tags:
 
 打包可能会遇到找不到Platform、buildTools等版本找不到，就需要安装指定版本的。用Windows或者其他系统GUI版本的更新就很方便了，可是对于只有命令行环境的就会遇到些麻烦，由于我们的Jenkins部署在Linux的命令行环境下，不能通过GUI去选择下载SDK，这就引出下面的命令行更新SDK的方式。
 
-- ANDROID_HOME->tools
-- ./android list sdk --all 列出全部sdk
-- ./android update sdk -u --all --filter 13 安装编号13的sdk 项目，此处不带filter 默认安装全部（建议是按需添加）
+- ANDROID_HOME->tools；
+- ./android list sdk --all 列出全部sdk；
+- ./android update sdk -u --all --filter 13 安装编号13的sdk 项目，此处不带filter 默认安装全部（建议是按需添加）；
