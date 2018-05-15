@@ -68,9 +68,9 @@ pagination_dir: page
 theme: next
 
 algolia:
-  applicationID: 'NHZ138RNTK'
-  apiKey: 'b34033b0f2387b9ae35b2290ddc59a5f'
-  adminApiKey: 'ec738630e58ac4fc3d66fb1e36d6882a'
+  applicationID: 'OBW2YIYILK'
+  apiKey: '61f8a8005581bc53a5d3c776188d0bd2'
+  adminApiKey: '901ac3075ca4288bd28941f2e48e2ee9'
   indexName: 'beilly'
   chunkSize: 5000
 
